@@ -1,6 +1,6 @@
 # 📱 Hibernate CRUD Example - Mobile Management
 
-<br> <p> <h4>This is a simple Java project using **Hibernate ORM** to demonstrate basic CRUD operations (`Create`, `Read`, `Update`, `Delete`) on a `Mobile` entity. The application uses **Hibernate 5.5**, **MySQL 8**, and **Maven**, and is ideal for beginners to understand Hibernate fundamentals. </p>
+<br>  <h4>This is a simple Java project using **Hibernate ORM** to demonstrate basic CRUD operations (`Create`, `Read`, `Update`, `Delete`) on a `Mobile` entity. The application uses **Hibernate 5.5**, **MySQL 8**, and **Maven**, and is ideal for beginners to understand Hibernate fundamentals. 
 <br>
 ---
 <br>
